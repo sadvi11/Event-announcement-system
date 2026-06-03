@@ -16,10 +16,10 @@ Manual email takes hours. This system delivers in seconds.
 
 ## Tech Stack
 
-- AWS SNS for pub/sub notifications
+- AWS SNS pub/sub notifications
 - AWS Lambda serverless Python function
 - AWS API Gateway REST endpoint
-- AWS S3 for static frontend hosting
+- AWS S3 static frontend hosting
 - ca-central-1 Canadian data residency
 
 ## Screenshots
